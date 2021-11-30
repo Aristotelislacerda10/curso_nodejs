@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "MYSQL_USER" : "quantum",
+        "MYSQL_PASSWORD" : "quantum28042004",
+        "MYSQL_DATABASE" : "usa_o_void",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : "3390"
+    }
+}
